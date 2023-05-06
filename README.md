@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivanandAK
-- 👀 I’m interested in ...Python
-- 🌱 I’m currently learning ...BCA
+- 👀 I’m interested in WebDev
+- 🌱 I’m currently learning ...JS
 - 💞️ I’m looking to collaborate on ...Development project
 - 📫 How to reach me ...shivukhot2@gmail.com
 
